@@ -34,7 +34,7 @@ const Users: Component = () => {
               <tr>
                 <td>{user.date}</td>
                 <td>{user.nickname}</td>
-                <td>{user.weight}</td>
+                <td>{user.weight}kg</td>
               </tr>
             )}
           </For>
